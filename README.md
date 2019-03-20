@@ -1,19 +1,21 @@
 # create-react-app-mulipage
-A simple multiple pages project for react, rewrite create-react-app, based on npm run eject of CRA
+> A simple multiple pages project for react, rewrite create-react-app, based on npm run eject of CRA
 <br />
-# yarn or npm to install
+## yarn or npm to install
 ```
 yarn install (or npm install)
 ```
-<br />
-# run
+
+## run the project
 ```
 npm start
 ```
-# build
+
+## build the project
 ```
 npm run build
 ```
+
 <br />
 Thanks for:<br/>
 https://segmentfault.com/a/1190000016960824 <br/>
