@@ -47,5 +47,5 @@ npm run build
 
 <br />
 Thanks for:<br/>
-[https://segmentfault.com/a/1190000016960824](https://segmentfault.com/a/1190000016960824 "React CRA multiple pages(npm run eject)")<br>
-[https://zhaozhiming.github.io/blog/2018/01/08/create-react-app-override-webpack-config/](https://zhaozhiming.github.io/blog/2018/01/08/create-react-app-override-webpack-config/ "Webpack for Create React App")
+[React CRA multiple pages](https://segmentfault.com/a/1190000016960824 "React CRA multiple pages(npm run eject)")<br>
+[Webpack for Create React App](https://zhaozhiming.github.io/blog/2018/01/08/create-react-app-override-webpack-config/ "Webpack for Create React App")
