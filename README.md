@@ -9,6 +9,8 @@ yarn install (or npm install)
 ## run the project
 ```
 npm start
+http://localhost:3000/dashboard.html
+http://localhost:3000/mine.html
 ```
 
 ## build the project
