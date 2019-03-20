@@ -17,11 +17,11 @@
 ```
 |-- src
     |-- yourfolder // name of html would be the same as your folder name
-      |-- App.css
-      |-- App.js
-      |-- index.css
-      |-- index.js
-      |-- logo.svg
+        |-- App.css
+        |-- App.js
+        |-- index.css
+        |-- index.js
+        |-- logo.svg
 ```
 
 
